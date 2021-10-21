@@ -1,11 +1,9 @@
-name: Jacky Zhao
-enableToc: true
-description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
-page_title:
-  Quartz Example Page
-links:
+name: Hector # Shows in the footer
+enableToc: true # Whether to show a Table of Contents
+description: Page description to show to search engines
+page_title: Quartz Example Page # Default Page Title
+
+links: # Links to show in footer
   - link_name: Twitter
     link: https://twitter.com/_jzhao
   - link_name: Github
